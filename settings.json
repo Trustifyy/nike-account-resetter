@@ -1,7 +1,7 @@
 {
     "mail_domain":"gmail",
     "use_proxies":true,
-    "headless":true,
+    "headless":false,
     "email_folder_to_search":"inbox",
     "amount_of_emails_to_check":90,
     "login":{
