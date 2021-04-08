@@ -1,14 +1,14 @@
 {
     "mail_domain":"gmail",
     "use_proxies":true,
-    "headless":false,
+    "headless":true,
     "email_folder_to_search":"inbox",
-    "amount_of_emails_to_check":20,
+    "amount_of_emails_to_check":325,
     "login":{
-        "username":"",
-        "password":""
+        "username":"taevic0812@gmail.com",
+        "password":"Taeveon123"
     },
-    "new_account_password":"ZxcuC9Qjskay!",
-    "max_browser_threads":3,
+    "new_account_password":"pinkcup1!",
+    "max_browser_threads":4,
     "timeout":5
 }
