@@ -3,10 +3,10 @@
     "use_proxies":true,
     "headless":true,
     "email_folder_to_search":"inbox",
-    "amount_of_emails_to_check":325,
+    "amount_of_emails_to_check":90,
     "login":{
         "username":"taevic0812@gmail.com",
-        "password":"Taeveon123"
+        "password":"Tyndale12"
     },
     "new_account_password":"pinkcup1!",
     "max_browser_threads":4,
