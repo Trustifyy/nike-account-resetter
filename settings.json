@@ -3,12 +3,12 @@
     "use_proxies":true,
     "headless":false,
     "email_folder_to_search":"inbox",
-    "amount_of_emails_to_check":20,
+    "amount_of_emails_to_check":600,
     "login":{
-        "username":"",
-        "password":""
+        "username":"Taescollection@gmail.com",
+        "password":"Minecraft02."
     },
-    "new_account_password":"ZxcuC9Qjskay!",
-    "max_browser_threads":3,
+    "new_account_password":"Penbridge24!",
+    "max_browser_threads":10,
     "timeout":5
 }
